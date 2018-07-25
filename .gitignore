@@ -1,0 +1,8 @@
+.vscode/*
+.vs/*
+Binaries/*
+Intermediate/*
+Saved/*
+Build/*
+DerivedDataCache/*
+Plugins/*
